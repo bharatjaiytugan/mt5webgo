@@ -663,6 +663,8 @@ Join our Telegram group for discussions, support, and updates:
 
 ## Support & Contributing
 
-For questions, bug reports, feature requests, and commercial licensing inquiries, please reach out via our Telegram group:
+For questions, bug reports, feature requests, and commercial licensing inquiries, contact directly:
 
-**https://t.me/+pfMRu5HgdFk3YjM0**
+[![Telegram](https://img.shields.io/badge/Telegram-@iamocap-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamocap)
+
+**https://t.me/iamocap**
