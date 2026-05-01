@@ -661,6 +661,8 @@ Join our Telegram group for discussions, support, and updates:
 
 **https://t.me/+pfMRu5HgdFk3YjM0**
 
-## Contributing
+## Support & Contributing
 
-Please use GitHub Issues for questions, bug reports, and feature requests. You can also reach us via the Telegram group above.
+For questions, bug reports, feature requests, and commercial licensing inquiries, please reach out via our Telegram group:
+
+**https://t.me/+pfMRu5HgdFk3YjM0**
