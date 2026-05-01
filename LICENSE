@@ -1,0 +1,51 @@
+MT5WebAPIGO - Proprietary License
+
+Copyright (c) 2025-2026 iamocap. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. PERSONAL USE
+   Permission is granted, free of charge, to any person obtaining a copy
+   of this software to use it for personal, non-commercial purposes,
+   including learning, research, and evaluation.
+
+2. COMMERCIAL USE
+   Commercial use of this software is NOT permitted without prior written
+   authorization from the copyright holder. Commercial use includes, but
+   is not limited to:
+   - Using this software in a product or service that generates revenue
+   - Using this software in a trading system that manages client funds
+   - Integrating this software into proprietary trading infrastructure
+   - Offering this software as part of a paid service or SaaS platform
+
+   For commercial licensing inquiries, please contact:
+   GitHub: https://github.com/iamocap
+   Telegram: https://t.me/+pfMRu5HgdFk3YjM0
+
+3. MODIFICATION
+   You may modify the source code for personal, non-commercial use only.
+   Modified versions may not be distributed or used commercially without
+   a commercial license.
+
+4. REDISTRIBUTION
+   Redistribution of this software, in whole or in part, in source or
+   binary form, is prohibited without prior written permission from the
+   copyright holder.
+
+5. ATTRIBUTION
+   Any permitted use of this software must retain this license notice
+   and the above copyright notice.
+
+6. NO WARRANTY
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. THIRD-PARTY COMPONENTS
+   This software is built upon the MetaTrader 5 Web API SDK provided by
+   MetaQuotes Ltd. MetaTrader 5 is a registered trademark of MetaQuotes Ltd.
+   Use of this software requires compliance with MetaQuotes' terms of service.
